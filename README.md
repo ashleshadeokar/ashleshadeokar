@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ashlesha Deokar
+### Hello World! 👋 I'm Ashlesha Deokar
 
 🎓 Master's in Computer Science from George Mason University  
 🔍 Bachelor's in Information Technology from the University of Mumbai  
