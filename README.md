@@ -12,7 +12,7 @@ I'm a data enthusiast with a knack for turning raw data into actionable insights
 ### What I'm Up To
 
 🔭 Currently honing my skills in data mining, machine learning and advanced NLP  
-🌱 Exploring the large learning models(LLm's) and their applications. 
+🌱 Exploring the large learning models(LLm's) and their applications  
 📚 Constantly learning and experimenting with new technologies  
 
 ### Let's Connect!
