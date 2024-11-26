@@ -2,7 +2,7 @@
 
 🎓 Master's in Computer Science from George Mason University  
 🔍 Bachelor's in Information Technology from the University of Mumbai  
-👩‍💻 AI Engineer | Data Analyst | Python Developer  
+👩‍💻 Software Engineer | AI Engineer | Data Analyst | Python Developer  
 🌟 Passionate about leveraging data to drive insights and create impactful solutions  
 
 ### About Me
